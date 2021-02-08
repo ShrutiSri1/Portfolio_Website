@@ -1,0 +1,18 @@
+import reactjs from "./img/reactjs.jpg";
+import maternal from "./img/maternal.png";
+const ProjData = [
+    {
+        imgsrc: reactjs,
+        title: "My own Portfolio website using ReactJs",
+        tech: "ReactJs,HTML, CSS and JavaScript",
+        link: "github link"
+
+    }, {
+        imgsrc: maternal,
+        title: "Maternal women's Healthcare Website",
+        tech: "HTML, CSS and JavaScript",
+        link: "https://github.com/dscnsec/MaternalWomenHealthcare"
+
+    },
+]
+export default ProjData;
