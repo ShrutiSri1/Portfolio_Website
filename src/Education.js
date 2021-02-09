@@ -5,10 +5,10 @@ import SchoolIcon from '@material-ui/icons/School';
 const Education = () => {
     return (
         <>
-            <div className="my-5">
+            <div className="my-5 ">
                 <h1 className="text-center tcb"><SchoolIcon style={{ fontSize: 40 }} /><strong> My Education</strong></h1>
             </div>
-            <div className="container-fluid  mb-5 ">
+            <div className="container-fluid  mb-5  p-2 mb-4 p-lg-2 mb-3 ">
                 <div className="row ">
                     <div className="col-10 mx-auto">
                         <div className="row gy-4 h-100 d-flex align-items-stretch">

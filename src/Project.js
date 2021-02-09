@@ -3,12 +3,15 @@ import ProjCard from "./ProjCard";
 import ProjData from "./Projdata";
 const Project = () => {
     return (
-        <>
-            <div className="my-5 mt-5">
-                <h1 className="text-center  mt-5"><strong>Project</strong></h1>
-            </div>
+        <><div className="my-5 mt-1 p-3">
+
+        </div>
+
             <div className="container-fluid  mb-5">
                 <div className="row ">
+                    <div className="my-5 mt-5">
+                        <h1 className="text-center  mt-5"><strong>Project</strong></h1>
+                    </div>
                     <div className="col-10 mx-auto">
                         <div className="row gy-4">
                             {
