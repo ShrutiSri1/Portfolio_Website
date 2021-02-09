@@ -6,8 +6,8 @@
   font-family: 'Mulish', sans-serif;
 }
 .navbar{
-  background-color: black !important;
-  color: white !important;
+  background-color: white !important;
+  color: rgb(14, 11, 11) !important;
 }
 .navbar-brand{
   font-size: 1.9rem !important;
