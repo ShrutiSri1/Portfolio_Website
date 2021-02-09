@@ -5,7 +5,7 @@ const ProjData = [
         imgsrc: reactjs,
         title: "My own Portfolio website using ReactJs",
         tech: "ReactJs,HTML, CSS and JavaScript",
-        link: "github link"
+        link: "https://github.com/ShrutiSri1/Portfolio_Website"
 
     }, {
         imgsrc: maternal,
