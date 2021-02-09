@@ -7,7 +7,7 @@
 }
 .navbar{
   background-color: white !important;
-  color: rgb(14, 11, 11) !important;
+  color: black!important;
 }
 .navbar-brand{
   font-size: 1.9rem !important;
@@ -71,6 +71,8 @@
 }
 .header-img{
   text-align: right;
+  width:300px;
+  height: 100px;
   
 }
 .img-fluid{
@@ -82,10 +84,7 @@
   width:300px;
   height: 300px;
 }
-#img1{
-  
-  height: 50%;
-}
+
 #header .animated{
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
