@@ -4,8 +4,8 @@ import ProjData from "./Projdata";
 const Project = () => {
     return (
         <>
-            <div className="my-5">
-                <h1 className="text-center "><strong>Project</strong></h1>
+            <div className="my-5 mt-5">
+                <h1 className="text-center  mt-5"><strong>Project</strong></h1>
             </div>
             <div className="container-fluid  mb-5">
                 <div className="row ">

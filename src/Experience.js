@@ -5,8 +5,8 @@ import WorkIcon from '@material-ui/icons/Work';
 const Education = () => {
     return (
         <>
-            <div className="my-5">
-                <h1 className="text-center tcp"> <WorkIcon style={{ fontSize: 40 }} /><strong>My Experiences</strong></h1>
+            <div className="my-5 mt-5">
+                <h1 className="text-center tcp mt-5"> <WorkIcon style={{ fontSize: 40 }} /><strong>My Experiences</strong></h1>
             </div>
             <section id="header" className="d-flex align-items-center bgp">
 
