@@ -16,7 +16,7 @@ const Education = () => {
                             <h1 className="text-center  tcp mb-5"> <WorkIcon style={{ fontSize: 40 }} /><strong>My Experiences</strong></h1>
                         </div>
                         <div className="col-10 mx-auto">
-                            <div className="row gy-4 ">
+                            <div className="row gy-4 h-100 d-flex align-items-stretch">
                                 {
                                     ExperienceData.map((val, ind) => {
                                         return <ExpCard key={ind}

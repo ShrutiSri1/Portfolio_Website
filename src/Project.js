@@ -13,7 +13,7 @@ const Project = () => {
                         <h1 className="text-center  mt-5"><strong>Project</strong></h1>
                     </div>
                     <div className="col-10 mx-auto">
-                        <div className="row gy-4">
+                        <div className="row gy-4 h-100 d-flex align-items-stretch">
                             {
                                 ProjData.map((val, ind) => {
                                     return <ProjCard key={ind}
