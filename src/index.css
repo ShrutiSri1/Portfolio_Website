@@ -7,6 +7,7 @@
 }
 .navbar{
   background-color: black !important;
+  color: white;
 }
 .navbar-brand{
   font-size: 1.9rem !important;
@@ -83,7 +84,7 @@
 }
 #img1{
   
-  height: 20%;
+  height: 50%;
 }
 #header .animated{
   animation: up-down 2s ease-in-out infinite alternate-reverse both;

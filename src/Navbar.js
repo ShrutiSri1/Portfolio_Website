@@ -14,24 +14,24 @@ const Navbar = () => {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link active" aria-current="page" to="/">Home</NavLink >
+                    <li className="nav-item  tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw active" aria-current="page" to="/">Home</NavLink >
                     </li>
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link" to="/about">About</NavLink>
+                    <li className="nav-item tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw" to="/about">About</NavLink>
                     </li>
 
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link" to="/experience">Experience</NavLink>
+                    <li className="nav-item tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw" to="/experience">Experience</NavLink>
                     </li>
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link" to="/project">Project</NavLink>
+                    <li className="nav-item tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw" to="/project">Project</NavLink>
                     </li>
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link" to="/skill">Skill</NavLink>
+                    <li className="nav-item tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw" to="/skill">Skill</NavLink>
                     </li>
-                    <li className="nav-item">
-                      <NavLink activeClassName='menu_active' exact className="nav-link" to="/contact">Contact</NavLink>
+                    <li className="nav-item tcw">
+                      <NavLink activeClassName='menu_active' exact className="nav-link tcw" to="/contact">Contact</NavLink>
                     </li>
 
 
