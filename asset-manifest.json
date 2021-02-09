@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_Website/static/css/main.aa2011df.chunk.css",
+    "main.css": "/Portfolio_Website/static/css/main.c83fb316.chunk.css",
     "main.js": "/Portfolio_Website/static/js/main.d453d678.chunk.js",
     "main.js.map": "/Portfolio_Website/static/js/main.d453d678.chunk.js.map",
     "runtime-main.js": "/Portfolio_Website/static/js/runtime-main.e08633c1.js",
@@ -10,7 +10,7 @@
     "static/js/2.385d737e.chunk.js.map": "/Portfolio_Website/static/js/2.385d737e.chunk.js.map",
     "index.html": "/Portfolio_Website/index.html",
     "static/css/2.d65fdcc0.chunk.css.map": "/Portfolio_Website/static/css/2.d65fdcc0.chunk.css.map",
-    "static/css/main.aa2011df.chunk.css.map": "/Portfolio_Website/static/css/main.aa2011df.chunk.css.map",
+    "static/css/main.c83fb316.chunk.css.map": "/Portfolio_Website/static/css/main.c83fb316.chunk.css.map",
     "static/js/2.385d737e.chunk.js.LICENSE.txt": "/Portfolio_Website/static/js/2.385d737e.chunk.js.LICENSE.txt",
     "static/media/c.b2976dd0.jpg": "/Portfolio_Website/static/media/c.b2976dd0.jpg",
     "static/media/cooking.8aed2881.jpg": "/Portfolio_Website/static/media/cooking.8aed2881.jpg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.e08633c1.js",
     "static/css/2.d65fdcc0.chunk.css",
     "static/js/2.385d737e.chunk.js",
-    "static/css/main.aa2011df.chunk.css",
+    "static/css/main.c83fb316.chunk.css",
     "static/js/main.d453d678.chunk.js"
   ]
 }
