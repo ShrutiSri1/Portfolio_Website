@@ -11,7 +11,7 @@ const Skills = () => {
 
                 <div className="container-fluid  mb-5 bcp ">
                     <div className="row ">
-                        <h1 className="text-center bgb tcp mb-5"><strong>Skills</strong></h1>
+                        <h1 className="text-center bgb tcp my-5"><strong>Skills</strong></h1>
                         <div className="col-10 mx-auto">
                             <div className="row gy-4 h-100 d-flex align-items-stretch">
                                 {

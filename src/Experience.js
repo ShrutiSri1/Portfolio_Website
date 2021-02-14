@@ -5,17 +5,18 @@ import WorkIcon from '@material-ui/icons/Work';
 const Education = () => {
     return (
         <>
-            <div className="my-5 mt-10 p-5">
+            <hr className="my-5" />
 
-            </div>
-            <section id="header" className="d-flex align-items-center bgp mt-10">
 
-                <div className="container-fluid  mb-5 bgp">
+            <section className="d-flex align-items-center bgp mt-2 mt-2 ">
+
+                <div className="container-fluid  mb-5 ">
                     <div className="row ">
-                        <div className="my-5 mt-5 p-5 p-lg-2">
-                            <h1 className="text-center  tcp mb-5"> <WorkIcon style={{ fontSize: 40 }} /><strong>My Experiences</strong></h1>
+                        <div className="my-5 mx-auto ">
+
+                            <h1 className="text-center mx-auto tcb my-5 "> <WorkIcon style={{ fontSize: 40 }} /><strong>My Experiences</strong></h1>
                         </div>
-                        <div className="col-10 mx-auto">
+                        <div className="col-10 mx-auto bgp">
                             <div className="row gy-4 h-100 d-flex align-items-stretch">
                                 {
                                     ExperienceData.map((val, ind) => {

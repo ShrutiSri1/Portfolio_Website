@@ -9,8 +9,8 @@ const Project = () => {
 
             <div className="container-fluid  mb-5">
                 <div className="row ">
-                    <div className="my-5 mt-5">
-                        <h1 className="text-center  mt-5"><strong>Project</strong></h1>
+                    <div className="">
+                        <h1 className="text-center  p-5"><strong>Project</strong></h1>
                     </div>
                     <div className="col-10 mx-auto">
                         <div className="row gy-4 h-100 d-flex align-items-stretch">

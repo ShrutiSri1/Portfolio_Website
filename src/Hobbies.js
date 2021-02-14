@@ -5,12 +5,10 @@ const Hobbies
     = () => {
         return (
             <>
-                <div className="my-5">
 
-                </div>
                 <div className="container-fluid  mb-5 bgp">
                     <div className="row ">
-                        <h1 className="text-center "><strong>Hobbies
+                        <h1 className="text-center my-5"><strong>Hobbies
                 </strong></h1>
                         <div className="col-10 mx-auto">
                             <div className="row gy-4">
