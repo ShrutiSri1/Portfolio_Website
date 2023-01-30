@@ -21,7 +21,7 @@ function Home() {
                                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 " >
 
                                     <h2 className="my-5 tcp">
-                                        <h1 className="tcw"><ReactTypingEffect className="typingeffect tcp" text={['Shruti Srivastava', ' Software Engineer']} speed={100} eraseDelay={700} />
+                                        <h1 className="tcw"><ReactTypingEffect className="typingeffect tcp" text={['Shruti Srivastava', 'Student']} speed={100} eraseDelay={700} />
                                         </h1>
                                     </h2>
                                     <div className="my-3">
